@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ball game:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="ball game.jar">
+      <element id="module-output" name="ball game" />
+    </root>
+  </artifact>
+</component>
